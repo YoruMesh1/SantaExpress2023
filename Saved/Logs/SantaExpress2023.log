@@ -1725,3 +1725,315 @@ FLevelEditorActionCallbacks::ExecuteExecCommand() [D:\build\++UE5\Sync\Engine\So
 [2023.12.19-12.59.48:274][796]AssetCheck: New page: Asset Save: multiple assets
 [2023.12.19-12.59.48:274][796]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/SantaExpress.SantaExpress
 [2023.12.19-12.59.48:274][796]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/MAT_BuildingsOuter.MAT_BuildingsOuter
+[2023.12.19-13.00.54:786][116]LogWindowsTextInputMethodSystem: Activated input method: 繁體中文 (台灣) - (Keyboard).
+[2023.12.19-13.00.54:787][116]LogWindowsTextInputMethodSystem: Activated input method: 繁體中文 (台灣) - 微軟注音 (TSF IME).
+[2023.12.19-13.44.28:428][ 91]LogDerivedDataCache: C:/Users/caiyo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.103 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3356 files in 4704 folders with total size 563 MiB.
+[2023.12.19-14.44.13:724][ 73]LogStaticMesh: Display: Building static mesh SM_BLDG_Prop_BA_BoardM_A01_N1...
+[2023.12.19-14.44.13:768][ 73]LogStaticMesh: Adjacency [0.00s], tris: 6432, UVs 3
+[2023.12.19-14.44.13:779][ 73]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2023.12.19-14.44.13:780][ 73]LogStaticMesh: Leaves [0.00s]
+[2023.12.19-14.44.13:999][ 90]LogStaticMesh: Reduce [0.22s]
+[2023.12.19-14.44.14:006][ 90]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_BLDG_Prop_BA_BoardM_A01_N1.SM_BLDG_Prop_BA_BoardM_A01_N1
+[2023.12.19-14.44.14:006][ 90]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_BLDG_Prop_BA_BoardM_A01_N1.SM_BLDG_Prop_BA_BoardM_A01_N1
+[2023.12.19-14.44.14:007][ 90]LogActorFactory: Actor Factory spawned StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_BLDG_Prop_BA_BoardM_A01_N1.SM_BLDG_Prop_BA_BoardM_A01_N1 as actor: StaticMeshActor /Game/Levels/SantaExpress.SantaExpress:PersistentLevel.StaticMeshActor_16
+[2023.12.19-14.44.14:009][ 90]LogStaticMesh: Fallback 0/1 [0.01s], num tris: 256
+[2023.12.19-14.44.14:011][ 90]LogStaticMesh: ConstrainClusters:
+[2023.12.19-14.44.14:011][ 90]LogStaticMesh:   Input: 104 Clusters, 13108 Triangles and 9864 Vertices
+[2023.12.19-14.44.14:011][ 90]LogStaticMesh:   Output without splits: 104 Clusters, 13108 Triangles and 9976 Vertices
+[2023.12.19-14.44.14:011][ 90]LogStaticMesh:   Output with splits: 104 Clusters, 13108 Triangles and 9976 Vertices
+[2023.12.19-14.44.14:011][ 90]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 104, Slow Path Clusters: 0, 1 Material: 97, 2 Materials: 7, 3 Materials: 0, At Least 4 Materials: 0
+[2023.12.19-14.44.14:015][ 90]LogStaticMesh: WritePages:
+[2023.12.19-14.44.14:015][ 90]LogStaticMesh:   Root: GPU size: 32392 bytes. 1 Pages. 32392.000 bytes per page (98.853% utilization).
+[2023.12.19-14.44.14:015][ 90]LogStaticMesh:   Streaming: GPU size: 150188 bytes. 2 Pages (2 with relative encoding). 75094.000 bytes per page (57.292% utilization).
+[2023.12.19-14.44.14:015][ 90]LogStaticMesh:   Page data disk size: 130916 bytes. Fixup data size: 416 bytes.
+[2023.12.19-14.44.14:015][ 90]LogStaticMesh:   Total GPU size: 182580 bytes, Total disk size: 131332 bytes.
+[2023.12.19-14.44.14:015][ 90]LogStaticMesh: Encode [0.01s]
+[2023.12.19-14.44.14:015][ 90]LogStaticMesh: Nanite build [0.24s]
+
+[2023.12.19-14.44.14:018][ 90]LogStaticMesh: Built static mesh [0.29s] /Game/Deko_MatrixDemo/City/Meshes/SM_BLDG_Prop_BA_BoardM_A01_N1.SM_BLDG_Prop_BA_BoardM_A01_N1
+[2023.12.19-14.44.15:671][260]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_BLDG_Prop_BA_BoardM_A01_N1.SM_BLDG_Prop_BA_BoardM_A01_N1
+[2023.12.19-14.44.15:671][260]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_BLDG_Prop_BA_BoardM_A01_N1.SM_BLDG_Prop_BA_BoardM_A01_N1
+[2023.12.19-14.44.15:672][260]LogActorFactory: Actor Factory spawned StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_BLDG_Prop_BA_BoardM_A01_N1.SM_BLDG_Prop_BA_BoardM_A01_N1 as actor: StaticMeshActor /Game/Levels/SantaExpress.SantaExpress:PersistentLevel.StaticMeshActor_17
+[2023.12.19-14.44.22:054][958]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/SantaExpress.SantaExpress:PersistentLevel.StaticMeshActor_17.StaticMeshComponent0, from: Addition to navoctree)
+[2023.12.19-14.44.22:089][962]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/SantaExpress.SantaExpress:PersistentLevel.StaticMeshActor_17.StaticMeshComponent0, from: Remove from navoctree)
+[2023.12.19-14.44.22:627][ 26]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/SantaExpress.SantaExpress:PersistentLevel.StaticMeshActor_17.StaticMeshComponent0, from: Addition to navoctree)
+[2023.12.19-14.44.22:671][ 31]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/SantaExpress.SantaExpress:PersistentLevel.StaticMeshActor_17.StaticMeshComponent0, from: Remove from navoctree)
+[2023.12.19-14.44.27:452][568]LogDerivedDataCache: C:/Users/caiyo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.127 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3360 files in 4711 folders with total size 563 MiB.
+[2023.12.19-14.44.46:347][704]Cmd: DELETE
+[2023.12.19-14.44.46:347][704]Cmd: ACTOR DELETE
+[2023.12.19-14.44.46:351][704]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.19-14.44.46:357][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.12.19-14.44.46:359][704]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.12.19-14.45.02:362][546]LogStaticMesh: Display: Building static mesh SM_BLDG_Prop_BA_Sign_D01_N1...
+[2023.12.19-14.45.02:509][550]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_BLDG_Prop_BA_Sign_D01_N1.SM_BLDG_Prop_BA_Sign_D01_N1
+[2023.12.19-14.45.02:509][550]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_BLDG_Prop_BA_Sign_D01_N1.SM_BLDG_Prop_BA_Sign_D01_N1
+[2023.12.19-14.45.02:509][550]LogActorFactory: Actor Factory spawned StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_BLDG_Prop_BA_Sign_D01_N1.SM_BLDG_Prop_BA_Sign_D01_N1 as actor: StaticMeshActor /Game/Levels/SantaExpress.SantaExpress:PersistentLevel.StaticMeshActor_18
+[2023.12.19-14.45.02:526][550]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Deko_MatrixDemo/City/Meshes/SM_BLDG_Prop_BA_Sign_D01_N1) ...
+[2023.12.19-14.45.03:037][550]LogStaticMesh: Adjacency [0.01s], tris: 67216, UVs 3
+[2023.12.19-14.45.03:137][550]LogStaticMesh: Clustering [0.10s]. Ratio: 1.013308
+[2023.12.19-14.45.03:146][550]LogStaticMesh: Leaves [0.01s]
+[2023.12.19-14.45.03:935][550]LogStaticMesh: Reduce [0.79s]
+[2023.12.19-14.45.04:026][550]LogStaticMesh: Fallback 0/1 [0.09s], num tris: 649
+[2023.12.19-14.45.04:040][550]LogStaticMesh: ConstrainClusters:
+[2023.12.19-14.45.04:040][550]LogStaticMesh:   Input: 1099 Clusters, 138495 Triangles and 113470 Vertices
+[2023.12.19-14.45.04:040][550]LogStaticMesh:   Output without splits: 1099 Clusters, 138495 Triangles and 114861 Vertices
+[2023.12.19-14.45.04:040][550]LogStaticMesh:   Output with splits: 1099 Clusters, 138495 Triangles and 114861 Vertices
+[2023.12.19-14.45.04:042][550]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 1099, Slow Path Clusters: 0, 1 Material: 1089, 2 Materials: 10, 3 Materials: 0, At Least 4 Materials: 0
+[2023.12.19-14.45.04:072][550]LogStaticMesh: WritePages:
+[2023.12.19-14.45.04:072][550]LogStaticMesh:   Root: GPU size: 32164 bytes. 1 Pages. 32164.000 bytes per page (98.157% utilization).
+[2023.12.19-14.45.04:072][550]LogStaticMesh:   Streaming: GPU size: 1854716 bytes. 15 Pages (15 with relative encoding). 123647.734 bytes per page (94.336% utilization).
+[2023.12.19-14.45.04:072][550]LogStaticMesh:   Page data disk size: 1309616 bytes. Fixup data size: 6976 bytes.
+[2023.12.19-14.45.04:072][550]LogStaticMesh:   Total GPU size: 1886880 bytes, Total disk size: 1316592 bytes.
+[2023.12.19-14.45.04:072][550]LogStaticMesh: Encode [0.05s]
+[2023.12.19-14.45.04:072][550]LogStaticMesh: Nanite build [0.93s]
+
+[2023.12.19-14.45.04:081][550]LogStaticMesh: Built static mesh [1.72s] /Game/Deko_MatrixDemo/City/Meshes/SM_BLDG_Prop_BA_Sign_D01_N1.SM_BLDG_Prop_BA_Sign_D01_N1
+[2023.12.19-14.45.04:930][622]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_BLDG_Prop_BA_Sign_D01_N1.SM_BLDG_Prop_BA_Sign_D01_N1
+[2023.12.19-14.45.04:930][622]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_BLDG_Prop_BA_Sign_D01_N1.SM_BLDG_Prop_BA_Sign_D01_N1
+[2023.12.19-14.45.04:931][622]LogActorFactory: Actor Factory spawned StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_BLDG_Prop_BA_Sign_D01_N1.SM_BLDG_Prop_BA_Sign_D01_N1 as actor: StaticMeshActor /Game/Levels/SantaExpress.SantaExpress:PersistentLevel.StaticMeshActor_19
+[2023.12.19-14.45.06:466][789]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/SantaExpress.SantaExpress:PersistentLevel.StaticMeshActor_19.StaticMeshComponent0, from: Addition to navoctree)
+[2023.12.19-14.45.06:467][789]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Levels/SantaExpress.SantaExpress:PersistentLevel.StaticMeshActor_19.StaticMeshComponent0, from: Remove from navoctree)
+[2023.12.19-14.45.53:404][999]LogStaticMesh: Display: Building static mesh SM_BLDG_Prop_BA_Banner_A01_N1...
+[2023.12.19-14.45.53:477][999]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_BLDG_Prop_BA_Banner_A01_N1.SM_BLDG_Prop_BA_Banner_A01_N1
+[2023.12.19-14.45.53:477][999]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_BLDG_Prop_BA_Banner_A01_N1.SM_BLDG_Prop_BA_Banner_A01_N1
+[2023.12.19-14.45.53:477][999]LogActorFactory: Actor Factory spawned StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_BLDG_Prop_BA_Banner_A01_N1.SM_BLDG_Prop_BA_Banner_A01_N1 as actor: StaticMeshActor /Game/Levels/SantaExpress.SantaExpress:PersistentLevel.StaticMeshActor_20
+[2023.12.19-14.45.53:495][999]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Deko_MatrixDemo/City/Meshes/SM_BLDG_Prop_BA_Banner_A01_N1) ...
+[2023.12.19-14.45.55:564][999]LogStaticMesh: Adjacency [0.17s], tris: 325136, UVs 3
+[2023.12.19-14.45.56:160][999]LogStaticMesh: Clustering [0.60s]. Ratio: 1.017316
+[2023.12.19-14.45.56:182][999]LogStaticMesh: Leaves [0.02s]
+[2023.12.19-14.45.58:515][999]LogStaticMesh: Reduce [2.33s]
+[2023.12.19-14.45.58:598][999]LogStaticMesh: Fallback 0/1 [0.08s], num tris: 2786
+[2023.12.19-14.45.58:659][999]LogStaticMesh: ConstrainClusters:
+[2023.12.19-14.45.58:659][999]LogStaticMesh:   Input: 5292 Clusters, 665973 Triangles and 531095 Vertices
+[2023.12.19-14.45.58:659][999]LogStaticMesh:   Output without splits: 5292 Clusters, 665973 Triangles and 534749 Vertices
+[2023.12.19-14.45.58:659][999]LogStaticMesh:   Output with splits: 5292 Clusters, 665973 Triangles and 534749 Vertices
+[2023.12.19-14.45.58:663][999]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 5292, Slow Path Clusters: 0, 1 Material: 5257, 2 Materials: 35, 3 Materials: 0, At Least 4 Materials: 0
+[2023.12.19-14.45.58:785][999]LogStaticMesh: WritePages:
+[2023.12.19-14.45.58:785][999]LogStaticMesh:   Root: GPU size: 32040 bytes. 1 Pages. 32040.000 bytes per page (97.778% utilization).
+[2023.12.19-14.45.58:785][999]LogStaticMesh:   Streaming: GPU size: 9225088 bytes. 71 Pages (66 with relative encoding). 129930.820 bytes per page (99.129% utilization).
+[2023.12.19-14.45.58:785][999]LogStaticMesh:   Page data disk size: 6505128 bytes. Fixup data size: 35288 bytes.
+[2023.12.19-14.45.58:785][999]LogStaticMesh:   Total GPU size: 9257128 bytes, Total disk size: 6540416 bytes.
+[2023.12.19-14.45.58:786][999]LogStaticMesh: Encode [0.19s]
+[2023.12.19-14.45.58:786][999]LogStaticMesh: Nanite build [2.60s]
+
+[2023.12.19-14.45.58:811][999]LogStaticMesh: Built static mesh [5.41s] /Game/Deko_MatrixDemo/City/Meshes/SM_BLDG_Prop_BA_Banner_A01_N1.SM_BLDG_Prop_BA_Banner_A01_N1
+[2023.12.19-14.45.59:069][  0]LogAutomationController: Ignoring very large delta of 5.69 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.12.19-14.46.01:601][228]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_BLDG_Prop_BA_Banner_A01_N1.SM_BLDG_Prop_BA_Banner_A01_N1
+[2023.12.19-14.46.01:601][228]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_BLDG_Prop_BA_Banner_A01_N1.SM_BLDG_Prop_BA_Banner_A01_N1
+[2023.12.19-14.46.01:602][228]LogActorFactory: Actor Factory spawned StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_BLDG_Prop_BA_Banner_A01_N1.SM_BLDG_Prop_BA_Banner_A01_N1 as actor: StaticMeshActor /Game/Levels/SantaExpress.SantaExpress:PersistentLevel.StaticMeshActor_21
+[2023.12.19-14.47.21:096][966]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.12.19-14.47.21:113][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.19-14.47.21:113][966]PIE: New page: PIE session: SantaExpress (2023年12月20日 上午6:47:21)
+[2023.12.19-14.47.21:113][966]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_SantaExpress
+[2023.12.19-14.47.21:130][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016739s)
+[2023.12.19-14.47.21:130][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/SantaExpress.SantaExpress to /Game/Levels/UEDPIE_0_SantaExpress.SantaExpress (0.016778s)
+[2023.12.19-14.47.21:134][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.12.19-14.47.21:135][966]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.19-14.47.21:135][966]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.19-14.47.21:135][966]LogAIModule: Creating AISystem for world SantaExpress
+[2023.12.19-14.47.21:136][966]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2023.12.19-14.47.21:136][966]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.12.19-14.47.21:136][966]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.19-14.47.21:136][966]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.19-14.47.21:136][966]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.19-14.47.21:136][966]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.19-14.47.21:136][966]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.19-14.47.21:136][966]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.19-14.47.21:136][966]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.19-14.47.21:136][966]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.19-14.47.21:136][966]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.19-14.47.21:136][966]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.19-14.47.21:136][966]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.19-14.47.21:139][966]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.19-14.47.21:159][966]LogAudioMixer: Display: Using Audio Hardware Device 喇叭 (Logitech PRO X Gaming Headset)
+[2023.12.19-14.47.21:159][966]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.19-14.47.21:159][966]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.19-14.47.21:159][966]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.19-14.47.21:160][966]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.12.19-14.47.21:160][966]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=6
+[2023.12.19-14.47.21:162][966]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.12.19-14.47.21:162][966]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.12.19-14.47.21:162][966]LogInit: FAudioDevice initialized with ID 6.
+[2023.12.19-14.47.21:162][966]LogAudio: Display: Audio Device (ID: 6) registered with world 'SantaExpress'.
+[2023.12.19-14.47.21:162][966]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.12.19-14.47.21:219][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.19-14.47.21:219][966]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.19-14.47.21:234][966]LogWorld: Bringing World /Game/Levels/UEDPIE_0_SantaExpress.SantaExpress up for play (max tick rate 0) at 2023.12.19-22.47.21
+[2023.12.19-14.47.21:234][966]LogWorld: Bringing up level for play took: 0.014974
+[2023.12.19-14.47.21:237][966]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2023.12.19-14.47.21:242][966]PIE: Server logged in
+[2023.12.19-14.47.21:243][966]PIE: Play in editor total start time 0.131 seconds.
+[2023.12.19-14.47.21:273][966]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.12.19-14.47.55:529][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.19-14.47.55:529][105]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_SantaExpress
+[2023.12.19-14.47.55:530][105]LogSlate: Window 'SantaExpress2023 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.19-14.47.55:535][105]LogWorld: UWorld::CleanupWorld for SantaExpress, bSessionEnded=true, bCleanupResources=true
+[2023.12.19-14.47.55:536][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.19-14.47.55:540][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.19-14.47.55:543][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.19-14.47.55:548][105]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.12.19-14.47.55:548][105]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.12.19-14.47.55:550][105]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.12.19-14.47.55:560][105]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.12.19-14.47.55:639][106]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.12.19-14.48.36:873][ 67]LogStaticMesh: Display: Building static mesh SM_Scaffolding_C01_N1...
+[2023.12.19-14.48.37:165][ 68]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_Scaffolding_C01_N1.SM_Scaffolding_C01_N1
+[2023.12.19-14.48.37:165][ 68]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_Scaffolding_C01_N1.SM_Scaffolding_C01_N1
+[2023.12.19-14.48.37:165][ 68]LogActorFactory: Actor Factory spawned StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_Scaffolding_C01_N1.SM_Scaffolding_C01_N1 as actor: StaticMeshActor /Game/Levels/SantaExpress.SantaExpress:PersistentLevel.StaticMeshActor_29
+[2023.12.19-14.48.37:182][ 68]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Deko_MatrixDemo/City/Meshes/SM_Scaffolding_C01_N1) ...
+[2023.12.19-14.48.37:466][ 68]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Metal_Sign_01_N.T_Metal_Sign_01_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.12.19-14.48.38:013][ 68]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Metal_Sign_02_AORM.T_Metal_Sign_02_AORM (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.12.19-14.48.38:173][ 68]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_PlywoodBoards_A01_AORM.T_PlywoodBoards_A01_AORM (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.12.19-14.48.38:311][ 68]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_Metal_Sign_04_C.T_Metal_Sign_04_C (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.12.19-14.48.38:803][ 68]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_PlywoodBoards_A01_C.T_PlywoodBoards_A01_C (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.12.19-14.48.39:059][ 68]LogStaticMesh: Adjacency [0.26s], tris: 255220, UVs 3
+[2023.12.19-14.48.39:973][ 68]LogStaticMesh: Clustering [0.91s]. Ratio: 1.017051
+[2023.12.19-14.48.40:003][ 68]LogStaticMesh: Leaves [0.03s]
+[2023.12.19-14.48.41:004][ 68]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/City/Textures/T_Scaffolding_A01_M.T_Scaffolding_A01_M (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.12.19-14.48.41:016][ 68]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/City/Textures/T_Scaffolding_B01_M.T_Scaffolding_B01_M (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.12.19-14.48.41:605][ 68]LogTexture: Display: Building textures: /Game/Deko_MatrixDemo/Shared/Textures/T_PlywoodBoards_A01_N.T_PlywoodBoards_A01_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.12.19-14.48.42:816][ 68]LogStaticMesh: Reduce [2.80s]
+[2023.12.19-14.48.42:901][ 68]LogStaticMesh: Fallback 0/1 [0.09s], num tris: 3706
+[2023.12.19-14.48.42:959][ 68]LogStaticMesh: ConstrainClusters:
+[2023.12.19-14.48.42:960][ 68]LogStaticMesh:   Input: 4149 Clusters, 522341 Triangles and 447675 Vertices
+[2023.12.19-14.48.42:960][ 68]LogStaticMesh:   Output without splits: 4149 Clusters, 522341 Triangles and 450378 Vertices
+[2023.12.19-14.48.42:960][ 68]LogStaticMesh:   Output with splits: 4149 Clusters, 522341 Triangles and 450378 Vertices
+[2023.12.19-14.48.42:962][ 68]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 4149, Slow Path Clusters: 0, 1 Material: 4098, 2 Materials: 51, 3 Materials: 0, At Least 4 Materials: 0
+[2023.12.19-14.48.43:058][ 68]LogStaticMesh: WritePages:
+[2023.12.19-14.48.43:058][ 68]LogStaticMesh:   Root: GPU size: 31592 bytes. 1 Pages. 31592.000 bytes per page (96.411% utilization).
+[2023.12.19-14.48.43:058][ 68]LogStaticMesh:   Streaming: GPU size: 8214824 bytes. 64 Pages (61 with relative encoding). 128356.625 bytes per page (97.928% utilization).
+[2023.12.19-14.48.43:058][ 68]LogStaticMesh:   Page data disk size: 5961232 bytes. Fixup data size: 28312 bytes.
+[2023.12.19-14.48.43:058][ 68]LogStaticMesh:   Total GPU size: 8246416 bytes, Total disk size: 5989544 bytes.
+[2023.12.19-14.48.43:059][ 68]LogStaticMesh: Encode [0.16s]
+[2023.12.19-14.48.43:059][ 68]LogStaticMesh: Nanite build [3.05s]
+
+[2023.12.19-14.48.43:084][ 68]LogStaticMesh: Built static mesh [6.21s] /Game/Deko_MatrixDemo/City/Meshes/SM_Scaffolding_C01_N1.SM_Scaffolding_C01_N1
+[2023.12.19-14.48.43:454][ 69]LogAutomationController: Ignoring very large delta of 6.30 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.12.19-14.48.44:258][117]LogShaderCompilers: Display: ================================================
+[2023.12.19-14.48.44:258][117]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.19-14.48.44:258][117]LogShaderCompilers: Display: Total job queries 74, among them cache hits 12 (16.22%)
+[2023.12.19-14.48.44:258][117]LogShaderCompilers: Display: Tracking 60 distinct input hashes that result in 49 distinct outputs (81.67%)
+[2023.12.19-14.48.44:258][117]LogShaderCompilers: Display: RAM used: 1.57 MiB of 1.60 GiB budget. Usage: 0.10%
+[2023.12.19-14.48.44:258][117]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.19-14.48.44:258][117]LogShaderCompilers: Display: Shaders Compiled: 36
+[2023.12.19-14.48.44:259][117]LogShaderCompilers: Display: Jobs assigned 38, completed 36 (94.74%)
+[2023.12.19-14.48.44:259][117]LogShaderCompilers: Display: Average time worker was idle: 1070.33 s
+[2023.12.19-14.48.44:259][117]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.08 s
+[2023.12.19-14.48.44:259][117]LogShaderCompilers: Display: Job execution time: average 1.03 s, max 2.27 s
+[2023.12.19-14.48.44:259][117]LogShaderCompilers: Display: Job life time (pending + execution): average 1.07 s, max 2.34
+[2023.12.19-14.48.44:259][117]LogShaderCompilers: Display: Shader code size: average 47.308 KiB, min 32.777 KiB, max 70.406 KiB
+[2023.12.19-14.48.44:259][117]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.17 s
+[2023.12.19-14.48.44:259][117]LogShaderCompilers: Display: Jobs were issued in 34 batches (only local compilation was used), average 1.12 jobs/batch
+[2023.12.19-14.48.44:259][117]LogShaderCompilers: Display: Average processing rate: 3.54 jobs/sec
+[2023.12.19-14.48.44:259][117]LogShaderCompilers: Display: Total thread time: 20.905 s
+[2023.12.19-14.48.44:259][117]LogShaderCompilers: Display: Total thread preprocess time: 1.261 s
+[2023.12.19-14.48.44:259][117]LogShaderCompilers: Display: Percentage time preprocessing: 6.03%
+[2023.12.19-14.48.44:259][117]LogShaderCompilers: Display: Effective parallelization: 2.06 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.19-14.48.44:259][117]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.19-14.48.44:259][117]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 1.08 sec, max 1.08 sec, min 1.08 sec)
+[2023.12.19-14.48.44:259][117]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 1.06 sec, max 1.06 sec, min 1.06 sec)
+[2023.12.19-14.48.44:259][117]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 1.06 sec, max 1.06 sec, min 1.06 sec)
+[2023.12.19-14.48.44:259][117]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.05 sec, max 1.05 sec, min 1.05 sec)
+[2023.12.19-14.48.44:259][117]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.92 sec, max 0.92 sec, min 0.92 sec)
+[2023.12.19-14.48.44:259][117]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.19-14.48.44:259][117]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.00% of total time (compiled    9 times, average 0.70 sec, max 1.07 sec, min 0.27 sec)
+[2023.12.19-14.48.44:259][117]LogShaderCompilers: Display:                                           FLumenCardPS<true> - 23.71% of total time (compiled    7 times, average 0.71 sec, max 0.76 sec, min 0.65 sec)
+[2023.12.19-14.48.44:259][117]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 5.18% of total time (compiled    1 times, average 1.08 sec, max 1.08 sec, min 1.08 sec)
+[2023.12.19-14.48.44:259][117]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.09% of total time (compiled    1 times, average 1.06 sec, max 1.06 sec, min 1.06 sec)
+[2023.12.19-14.48.44:259][117]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.06% of total time (compiled    1 times, average 1.06 sec, max 1.06 sec, min 1.06 sec)
+[2023.12.19-14.48.44:259][117]LogShaderCompilers: Display: ================================================
+[2023.12.19-14.48.56:437][345]Cmd: DELETE
+[2023.12.19-14.48.56:437][345]Cmd: ACTOR DELETE
+[2023.12.19-14.48.56:441][345]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.19-14.48.56:446][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.12.19-14.48.56:447][345]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.12.19-14.50.08:021][523]LogStaticMesh: Display: Building static mesh SM_Scaffolding_B01_N1...
+[2023.12.19-14.50.08:143][525]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_Scaffolding_B01_N1.SM_Scaffolding_B01_N1
+[2023.12.19-14.50.08:143][525]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_Scaffolding_B01_N1.SM_Scaffolding_B01_N1
+[2023.12.19-14.50.08:143][525]LogActorFactory: Actor Factory spawned StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_Scaffolding_B01_N1.SM_Scaffolding_B01_N1 as actor: StaticMeshActor /Game/Levels/SantaExpress.SantaExpress:PersistentLevel.StaticMeshActor_30
+[2023.12.19-14.50.08:160][525]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Deko_MatrixDemo/City/Meshes/SM_Scaffolding_B01_N1) ...
+[2023.12.19-14.50.09:441][525]LogStaticMesh: Adjacency [0.03s], tris: 245092, UVs 3
+[2023.12.19-14.50.09:919][525]LogStaticMesh: Clustering [0.48s]. Ratio: 1.017755
+[2023.12.19-14.50.09:940][525]LogStaticMesh: Leaves [0.02s]
+[2023.12.19-14.50.11:899][525]LogStaticMesh: Reduce [1.96s]
+[2023.12.19-14.50.12:035][525]LogStaticMesh: Fallback 0/1 [0.14s], num tris: 3846
+[2023.12.19-14.50.12:085][525]LogStaticMesh: ConstrainClusters:
+[2023.12.19-14.50.12:085][525]LogStaticMesh:   Input: 3994 Clusters, 502648 Triangles and 430601 Vertices
+[2023.12.19-14.50.12:085][525]LogStaticMesh:   Output without splits: 3994 Clusters, 502648 Triangles and 433191 Vertices
+[2023.12.19-14.50.12:085][525]LogStaticMesh:   Output with splits: 3994 Clusters, 502648 Triangles and 433191 Vertices
+[2023.12.19-14.50.12:087][525]LogStaticMesh: Material Stats - Unique Materials: 2, Fast Path Clusters: 3994, Slow Path Clusters: 0, 1 Material: 3955, 2 Materials: 39, 3 Materials: 0, At Least 4 Materials: 0
+[2023.12.19-14.50.12:180][525]LogStaticMesh: WritePages:
+[2023.12.19-14.50.12:180][525]LogStaticMesh:   Root: GPU size: 31820 bytes. 1 Pages. 31820.000 bytes per page (97.107% utilization).
+[2023.12.19-14.50.12:180][525]LogStaticMesh:   Streaming: GPU size: 7854140 bytes. 61 Pages (57 with relative encoding). 128756.391 bytes per page (98.233% utilization).
+[2023.12.19-14.50.12:180][525]LogStaticMesh:   Page data disk size: 5738900 bytes. Fixup data size: 26960 bytes.
+[2023.12.19-14.50.12:180][525]LogStaticMesh:   Total GPU size: 7885960 bytes, Total disk size: 5765860 bytes.
+[2023.12.19-14.50.12:181][525]LogStaticMesh: Encode [0.15s]
+[2023.12.19-14.50.12:181][525]LogStaticMesh: Nanite build [2.24s]
+
+[2023.12.19-14.50.12:203][525]LogStaticMesh: Built static mesh [4.18s] /Game/Deko_MatrixDemo/City/Meshes/SM_Scaffolding_B01_N1.SM_Scaffolding_B01_N1
+[2023.12.19-14.50.12:469][526]LogAutomationController: Ignoring very large delta of 4.33 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.12.19-14.50.14:015][685]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_Scaffolding_B01_N1.SM_Scaffolding_B01_N1
+[2023.12.19-14.50.14:015][685]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_Scaffolding_B01_N1.SM_Scaffolding_B01_N1
+[2023.12.19-14.50.14:016][685]LogActorFactory: Actor Factory spawned StaticMesh /Game/Deko_MatrixDemo/City/Meshes/SM_Scaffolding_B01_N1.SM_Scaffolding_B01_N1 as actor: StaticMeshActor /Game/Levels/SantaExpress.SantaExpress:PersistentLevel.StaticMeshActor_31
+[2023.12.19-14.50.43:037][870]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.12.19-14.50.43:044][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.19-14.50.43:044][870]PIE: New page: PIE session: SantaExpress (2023年12月20日 上午6:50:43)
+[2023.12.19-14.50.43:044][870]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_SantaExpress
+[2023.12.19-14.50.43:060][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016619s)
+[2023.12.19-14.50.43:060][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/SantaExpress.SantaExpress to /Game/Levels/UEDPIE_0_SantaExpress.SantaExpress (0.016656s)
+[2023.12.19-14.50.43:065][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.12.19-14.50.43:066][870]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.19-14.50.43:066][870]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.19-14.50.43:067][870]LogAIModule: Creating AISystem for world SantaExpress
+[2023.12.19-14.50.43:067][870]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2023.12.19-14.50.43:067][870]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.12.19-14.50.43:067][870]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.19-14.50.43:067][870]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.19-14.50.43:067][870]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.19-14.50.43:067][870]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.19-14.50.43:067][870]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.19-14.50.43:067][870]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.12.19-14.50.43:067][870]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.19-14.50.43:067][870]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.19-14.50.43:067][870]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.19-14.50.43:067][870]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.19-14.50.43:067][870]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.19-14.50.43:069][870]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.19-14.50.43:086][870]LogAudioMixer: Display: Using Audio Hardware Device 喇叭 (Logitech PRO X Gaming Headset)
+[2023.12.19-14.50.43:086][870]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.19-14.50.43:086][870]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.19-14.50.43:087][870]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.19-14.50.43:087][870]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.12.19-14.50.43:087][870]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=7
+[2023.12.19-14.50.43:089][870]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.12.19-14.50.43:089][870]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.12.19-14.50.43:089][870]LogInit: FAudioDevice initialized with ID 7.
+[2023.12.19-14.50.43:089][870]LogAudio: Display: Audio Device (ID: 7) registered with world 'SantaExpress'.
+[2023.12.19-14.50.43:089][870]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.12.19-14.50.43:137][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.19-14.50.43:137][870]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.19-14.50.43:149][870]LogWorld: Bringing World /Game/Levels/UEDPIE_0_SantaExpress.SantaExpress up for play (max tick rate 0) at 2023.12.19-22.50.43
+[2023.12.19-14.50.43:149][870]LogWorld: Bringing up level for play took: 0.011793
+[2023.12.19-14.50.43:151][870]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.12.19-14.50.43:156][870]PIE: Server logged in
+[2023.12.19-14.50.43:157][870]PIE: Play in editor total start time 0.114 seconds.
+[2023.12.19-14.50.43:187][870]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.12.19-14.53.05:950][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.19-14.53.05:950][946]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_SantaExpress
+[2023.12.19-14.53.05:951][946]LogSlate: Window 'SantaExpress2023 Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.12.19-14.53.05:957][946]LogWorld: UWorld::CleanupWorld for SantaExpress, bSessionEnded=true, bCleanupResources=true
+[2023.12.19-14.53.05:959][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.19-14.53.05:961][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.19-14.53.05:964][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.19-14.53.05:967][946]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.12.19-14.53.05:969][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.12.19-14.53.05:970][946]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.12.19-14.53.05:978][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.12.19-14.53.06:058][947]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.12.19-14.53.54:997][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.12.19-14.53.55:056][617]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/SantaExpress_Auto2
+[2023.12.19-14.53.55:056][617]LogSavePackage: Moving '../../../../../../Game Projects/SantaExpress2023/SantaExpress2023_Git/Saved/SantaExpress_Auto2509F3B0143C1AAAF2EE6C5B4E5275A5A.tmp' to '../../../../../../Game Projects/SantaExpress2023/SantaExpress2023_Git/Saved/Autosaves/Game/Levels/SantaExpress_Auto2.umap'
+[2023.12.19-14.53.55:057][617]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Game Projects/SantaExpress2023/SantaExpress2023_Git/Saved/Autosaves/Game/Levels/SantaExpress_Auto2.umap is in the /Temp path, will not scan.
+[2023.12.19-14.53.55:057][617]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/SantaExpress' took 0.064
+[2023.12.19-14.53.55:057][617]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
+[2023.12.19-15.44.28:437][858]LogDerivedDataCache: C:/Users/caiyo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.111 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3489 files in 4879 folders with total size 654 MiB.
